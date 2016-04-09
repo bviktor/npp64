@@ -1,13 +1,17 @@
 # npp64
 
-Notepad++ 64 bit build. No plugins, no localization tested yet.
+Notepad++ 64 bit build. No plugins, updater or localization tested yet.
 
 ## Prerequisites
 
 * [Git for Windows](https://github.com/git-for-windows/git/releases)
 * [Visual Studio Community](https://www.visualstudio.com/products/free-developer-offers-vs) with Visual C++ component
 
-## Usage
+## Download
+
+* [Notepad64++ 6.9.1](https://remedian.vault-tec.info/npp64/npp64-6.9.1.7z)
+
+## Building
 
 From `Git Bash`:
 
