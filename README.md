@@ -1,6 +1,6 @@
 # npp64
 
-Notepad++ 64 bit build. No plugins, updater or localization tested yet.
+Notepad++ 64 bit build. No Boost, plugins, updater or localization tested yet.
 
 ## Download
 
