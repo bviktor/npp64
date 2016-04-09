@@ -2,11 +2,6 @@
 
 Notepad++ 64 bit build. No plugins, updater or localization tested yet.
 
-## Prerequisites
-
-* [Git for Windows](https://github.com/git-for-windows/git/releases)
-* [Visual Studio Community](https://www.visualstudio.com/products/free-developer-offers-vs) with Visual C++ component
-
 ## Download
 
 * [Notepad64++ 6.9.1](https://remedian.vault-tec.info/npp64/npp64-6.9.1.7z)
@@ -18,6 +13,11 @@ Notepad++ 64 bit build. No plugins, updater or localization tested yet.
 * You can copy `Notepad64++.lnk` to `c:\ProgramData\Microsoft\Windows\Start Menu\Programs` to make it available via the Start Menu.
 
 ## Building
+
+Install:
+
+* [Git for Windows](https://github.com/git-for-windows/git/releases)
+* [Visual Studio Community](https://www.visualstudio.com/products/free-developer-offers-vs) with Visual C++ component
 
 From `Git Bash`:
 
